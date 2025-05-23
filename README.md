@@ -16,6 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/kavidu-dinal-85125a2a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kavidu-dinal-85125a2a8" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/30613698/kavidu-dinal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/30613698/kavidu-dinal" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent?workspace=ws_9tp93hp8prnq9f7uyj6dwd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=ws_9tp93hp8prnq9f7uyj6dwd" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/kavi_214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/kavi_214" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/glow_rustle_94" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/glow_rustle_94" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kaviduslgmdinal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kaviduslgmdinal1" height="30" width="40" /></a>
 </p>
 
