@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [WorkOra](https://github.com/kirushikan0508/workora)
 
-- 🌱 I’m currently learning **Web developing and Machine Learning**
+- 🌱 I’m currently learning: **Web developing and Machine Learning**
 
-- 📚 University: [Sabaragamuwa University of SriLanka](Sabaragamuwa University of SriLanka)
+- 📚 University: Sabaragamuwa University of SriLanka
 
-- 💬 Ask me about **Web Developing**
+- 💬 Ask me about: **Web Developing**
 
-- 📫 How to reach me **dinalkavidu5@gmail.com**
+- 📫 How to reach me: **dinalkavidu5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
