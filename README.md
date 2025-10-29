@@ -32,7 +32,10 @@
 </tr>
 </table>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Kavidu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KaviduDinal&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img 
+    alt="Kavidu's Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=KaviduDinal&bg_color=1F222E&color=00BFFF&line=1E90FF&point=87CEFA&hide_border=true" 
+  />
 </a>
 
 
