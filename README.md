@@ -1,4 +1,3 @@
-![Seeking Junior Developer Roles](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Kavidu Dinal..</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
