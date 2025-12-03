@@ -34,7 +34,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img 
     alt="Kavidu's Activity Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=KaviduDinal&bg_color=1F222E&color=00BFFF&line=1E90FF&point=87CEFA&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=KaviduDinal&bg_color=000000&color=00ff99&line=00ff66&point=00ffaa&area=true&hide_border=true" 
   />
 </a>
 
