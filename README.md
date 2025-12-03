@@ -25,8 +25,7 @@
 </td>
 <td width="50%" align="center">
 
- <img align="right"  height="450" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
-
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
   
   </td>
 </tr>
