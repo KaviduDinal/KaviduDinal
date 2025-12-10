@@ -116,6 +116,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
 <td align="center">
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
 </tr>
 </table>
 </p>
