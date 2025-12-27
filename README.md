@@ -1,6 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Kavidu Dinal..</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
