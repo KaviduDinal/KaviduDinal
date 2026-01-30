@@ -3,11 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KaviduDinal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub trophies - KaviduDinal" />
-  </a>
-</p>
+
 
 <table align="center">
 <tr border="none">
