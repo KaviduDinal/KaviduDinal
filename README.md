@@ -9,7 +9,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on [Spotify](https://github.com/KaviduDinal/Spotify.git)
+- 🔭 I’m currently working on [Spotify]([https://github.com/KaviduDinal/Spotify.git](https://github.com/KaviduDinal/Test-Pilot))
 
 - 🌱 I’m currently learning: **Web developing and Machine Learning**
 
