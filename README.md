@@ -1,32 +1,9 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Kavidu Dinal..</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<!-- ================= 1. CINEMATIC HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:0284c7,100:00ff9d&height=280&section=header&text=Kavidu%20Dinal&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20Software%20Engineer%20%7C%20MLOps%20Practitioner%20%7C%20Quantum%20Computing%20Researcher&descAlignY=58&descSize=16&descFontColor=00f3ff&stroke=00f3ff&strokeWidth=1" />
 
 
 
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🔭 I’m currently working on [Test Pilot]([https://github.com/KaviduDinal/Spotify.git](https://github.com/KaviduDinal/Test-Pilot))
-
-- 🌱 I’m currently learning: **Web developing and Machine Learning**
-
-- 📚 University: Sabaragamuwa University of SriLanka
-
-- 💬 Ask me about: **Web Developing**
-
-- 📫 How to reach me: **dinalkavidu5@gmail.com**
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="center" alt="">
-  
-  </td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1200&color=00FF9D&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Full-Stack+Software+Engineer+%7C+MLOps+Practitioner;Building+scalable+web+applications+with+modern+full-stack+technologies;Engineering+reliable+ML+pipelines+%26+production-ready+AI+systems;Exploring+Quantum+Computing+%26+next-generation+computing+paradigms;Turning+ideas+into+scalable%2C+intelligent+%26+impactful+software;Build.+Automate.+Experiment.+Innovate." alt="Typing SVG" />
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img 
     alt="Kavidu's Activity Graph" 
@@ -35,141 +12,345 @@
 </a>
 
 
-<h3 align="center">Connect with me:</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/kavidu-dinal-85125a2a8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
 
-  <a href="https://stackoverflow.com/users/30613698/kavidu-dinal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
+<!-- ================= 9. TECH ARSENAL MATRIX ================= -->
 
-  <a href="https://codesandbox.io/u/kavidu" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codesandbox.svg" height="30" width="40" />
-  </a>
+<h2 align="center">🛠️ Tech Arsenal Matrix</h2>
 
-  <a href="https://dribbble.com/kavi_214" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://www.codechef.com/users/glow_rustle_94" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/kaviduslgmdinal1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-</p>
+<table align="center" width="100%">
+<tr>
 
 <!-- 🎨 Frontend -->
-<h2 align="center">🎨 Frontend Development</h2>
-<p align="center">
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
-</tr>
-</table>
+<td align="center" width="50%">
+
+<h3>🎨 Frontend Development</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" width="40"/>
+<img src="https://skillicons.dev/icons?i=css" width="40"/>
+<img src="https://skillicons.dev/icons?i=js" width="40"/>
+<img src="https://skillicons.dev/icons?i=ts" width="40"/>
+<img src="https://skillicons.dev/icons?i=react" width="40"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+<img src="https://skillicons.dev/icons?i=figma" width="40"/>
 </p>
+
+<sub>
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Figma
+</sub>
+
+</td>
+
 <!-- 📱 Mobile -->
-<h2 align="center">📱 Mobile Development</h2>
-<p align="center">
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React Native</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="45"/><br>Expo</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>NativeWind</td>
-</tr>
-</table>
+<td align="center" width="50%">
+
+<h3>📱 Mobile Development</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
 </p>
+
+<sub>
+React Native • Expo • NativeWind
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
 
 <!-- ⚙️ Backend -->
-<h2 align="center">⚙️ Backend Development</h2>
-<p align="center">
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHP</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br>C</td>
+<td align="center" width="50%">
 
-</table>
+<h3>⚙️ Backend Development</h3>
 
-<!-- 🗄️ Databases -->
-<h2 align="center">🗄️ Databases & ORMs</h2>
-<p align="center">
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
-<td align="center">
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
+<img src="https://skillicons.dev/icons?i=express" width="40"/>
+<img src="https://skillicons.dev/icons?i=python" width="40"/>
+<img src="https://skillicons.dev/icons?i=php" width="40"/>
+<img src="https://skillicons.dev/icons?i=c" width="40"/>
 </p>
+
+<sub>
+Java • Node.js • Express • Python • PHP • C • REST APIs
+</sub>
+
+</td>
+
+<!-- 🗄️ Database -->
+<td align="center" width="50%">
+
+<h3>🗄️ Databases & Data</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/>
+</p>
+
+<sub>
+MySQL • MongoDB • PostgreSQL • Database Design • Data Management
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- 🚀 DevOps & MLOps -->
+<td align="center" width="50%">
+
+<h3>🚀 DevOps & MLOps</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker" width="40"/>
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<img src="https://skillicons.dev/icons?i=linux" width="40"/>
+<img src="https://skillicons.dev/icons?i=python" width="40"/>
+</p>
+
+<sub>
+Docker • Git • GitHub • Linux • CI/CD • MLOps • ML Pipelines
+</sub>
+
+</td>
 
 <!-- 🛠 Tools -->
-<h2 align="center">🛠️ Tools & Environment</h2>
-<p align="center">
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=idea" width="45"/><br>IntelliJ</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
-</tr>
-</table>
+<td align="center" width="50%">
+
+<h3>🛠️ Tools & Environment</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+<img src="https://skillicons.dev/icons?i=idea" width="40"/>
+<img src="https://skillicons.dev/icons?i=postman" width="40"/>
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<img src="https://skillicons.dev/icons?i=linux" width="40"/>
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<sub>
+VS Code • IntelliJ IDEA • Postman • Git • GitHub • Linux
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+</tr>
+</table>
+<div align="center">
+
+<!-- ================= 10. GITHUB TELEMETRY & ACHIEVEMENTS ================= -->
 
 <div align="center">
 
-  <!-- Streak Stats -->
-  <img 
-       width="390" 
-       src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KaviduDinal&count_private=true&theme=react&border_radius=10" 
-       alt="streak stats"
+## 📈 GitHub Telemetry & Activity
+
+<p align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KaviduDinal&theme=tokyonight&hide_border=true&background=040711&stroke=00f3ff&ring=00ff9d&fire=00ff9d&currStreakNum=00f3ff"
+    alt="GitHub Streak"
+    width="49%"
   />
 
-  <!-- Readme Stats -->
-  <img 
-       width="390" 
-       src="https://github-readme-stats-salesp07.vercel.app/api?username=KaviduDinal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-       alt="readme stats"
+  &nbsp;
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviduDinal&layout=compact&theme=tokyonight&hide_border=true&bg_color=040711&text_color=94a3b8&title_color=00ff9d"
+    alt="Top Languages"
+    width="48%"
   />
 
-  <br/><br/>
+</p>
 
-  <!-- Top Languages -->
-<img 
-    width="380" 
-    align="center" 
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaviduDinal&langs_count=20&layout=compact&theme=react&border_radius=10" 
-    alt="top langs"
+### 🏆 GitHub Achievements
+
+<br/>
+
+<table border="0">
+<tr>
+
+  <td align="center" width="25%">
+    <img
+      src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"
+      width="75"
+      alt="Pair Extraordinaire"
+    />
+    <br/>
+    <b>Pair Extraordinaire</b>
+    <br/>
+    <sub>Collaborative contributions</sub>
+  </td>
+
+  <td align="center" width="25%">
+    <img
+      src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"
+      width="75"
+      alt="Pull Shark"
+    />
+    <br/>
+    <b>Pull Shark</b>
+    <br/>
+    <sub>Pull request contributions</sub>
+  </td>
+
+  <td align="center" width="25%">
+    <img
+      src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"
+      width="75"
+      alt="YOLO"
+    />
+    <br/>
+    <b>YOLO</b>
+    <br/>
+    <sub>Bold contributions</sub>
+  </td>
+
+  <td align="center" width="25%">
+    <img
+      src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"
+      width="75"
+      alt="Starstruck"
+    />
+    <br/>
+    <b>Starstruck</b>
+    <br/>
+    <sub>Repository recognition</sub>
+  </td>
+
+</tr>
+</table>
+<!-- ================= 11. AUTHENTICATED COMMS & CONTACT DECK ================= -->
+
+<h2 align="center">📡 Authenticated Comms & Contact Deck</h2>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/kavidu-dinal-85125a2a8" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00f3ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://stackoverflow.com/users/30613698/kavidu-dinal" target="_blank">
+<img src="https://img.shields.io/badge/Stack%20Overflow-Connect-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=020617" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://codesandbox.io/u/kavidu" target="_blank">
+<img src="https://img.shields.io/badge/CodeSandbox-Explore-00f3ff?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=020617" />
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://dribbble.com/kavi_214" target="_blank">
+<img src="https://img.shields.io/badge/Dribbble-Explore-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=020617" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.codechef.com/users/glow_rustle_94" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=020617" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.hackerrank.com/kaviduslgmdinal1" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=020617" />
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/KaviduDinal" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Engineering-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/KaviduDinal" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-KaviduDinal-00ff9d?style=for-the-badge&logo=github&logoColor=black&labelColor=020617" />
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.instagram.com/kav1d_d1nal/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%40kav1d__d1nal-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=020617" />
+</a>
+</td>
+
+</tr>
+</table>
+
+<br/>
+<!-- ================= 12. PORTFOLIO & FINAL TRANSMISSION ================= -->
+
+<div align="center">
+
+<table border="0" cellpadding="8" cellspacing="0">
+<tr>
+
+<!-- Portfolio QR -->
+<td align="center" valign="middle" width="160">
+
+<b>Scan My Portfolio</b>
+
+<br/>
+
+<img
+src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://port-folio-three-gules.vercel.app/&color=00ff9d&bgcolor=020617&margin=6"
+alt="Kavidu Dinal Portfolio QR Code"
+width="110"
 />
 
+</td>
+
+<!-- Final Message -->
+<td align="center" valign="middle" width="460">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=1200&color=00F3FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=430&height=40&lines=Thanks+for+exploring+my+engineering+journey.;Building+scalable+software+%26+intelligent+systems.;Exploring+MLOps%2C+AI+%26+Quantum+Computing.;Let%27s+build+something+meaningful."
+alt="Final Message"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,25:0284c7,50:0a2540,75:050f24,100:020409&height=100&section=footer&text=%22Build.+Automate.+Experiment.+Innovate.%22&fontSize=15&fontColor=00ff9d&fontAlignY=68&reversal=true"
+alt="Profile Footer"
+/>
 
 </div>
 
-<br/><br/>
 
-<hr/>
-
-<br/>
-
-<br/>
 
