@@ -4,14 +4,6 @@
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3200&pause=1200&color=00FF9D&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=Full-Stack+Software+Engineer+%7C+MLOps+Practitioner;Building+scalable+web+applications+with+modern+full-stack+technologies;Engineering+reliable+ML+pipelines+%26+production-ready+AI+systems;Exploring+Quantum+Computing+%26+next-generation+computing+paradigms;Turning+ideas+into+scalable%2C+intelligent+%26+impactful+software;Build.+Automate.+Experiment.+Innovate." alt="Typing SVG" />
-<a href="https://github.com/KaviduDinal">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KaviduDinal&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true"
-    alt="Kavidu's GitHub Activity Graph"
-  />
-</a>
-
-
 
 <!-- ================= 9. TECH ARSENAL MATRIX ================= -->
 
@@ -317,9 +309,7 @@ VS Code • IntelliJ IDEA • Postman • Git • GitHub • Linux
 <td align="center" valign="middle" width="160">
 
 <b>Scan My Portfolio</b>
-
 <br/>
-
 <img
 src="https://api.qrserver.com/v1/create-qr-code/?size=110x110&data=https://port-folio-three-gules.vercel.app/&color=00ff9d&bgcolor=020617&margin=6"
 alt="Kavidu Dinal Portfolio QR Code"
